@@ -3,3 +3,10 @@
 ################################################################################
 
 /TariffComparison/.vs/TariffComparison
+/TariffComparison/TariffComparison.API/bin/Debug/net5.0
+/TariffComparison/TariffComparison.API/obj
+/TariffComparison/TariffComparison.Business/bin/Debug/net5.0
+/TariffComparison/TariffComparison.Business/obj
+/TariffComparison/TariffComparison.DataAccess/bin/Debug/net5.0
+/TariffComparison/TariffComparison.Business.Tests/bin/Debug/net6.0
+/TariffComparison/TariffComparison.DataAccess/obj
